@@ -1,0 +1,78 @@
+dump
+2018-02-26 23:23:25,528 INFO Using Database: tpch_kudu
+2018-02-26 23:24:29,543 INFO Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query1.sql: Time Taken(64.0140910149)
+2018-02-26 23:25:16,734 INFO Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query10.sql: Time Taken(47.1904160976)
+2018-02-26 23:25:34,897 INFO Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query11.sql: Time Taken(18.162596941)
+2018-02-26 23:26:05,046 INFO Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query12.sql: Time Taken(30.1486501694)
+2018-02-26 23:26:51,199 INFO Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query13.sql: Time Taken(46.153151989)
+2018-02-26 23:27:33,750 INFO Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query14.sql: Time Taken(42.550855875)
+2018-02-26 23:27:48,495 INFO Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query15.sql: Time Taken(14.744546175)
+2018-02-26 23:27:52,375 INFO Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query16.sql: Time Taken(3.87980389595)
+2018-02-26 23:28:03,006 INFO Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query17.sql: Time Taken(10.6301548481)
+2018-02-26 23:30:03,882 INFO Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query18.sql: Time Taken(120.876143932)
+2018-02-26 23:30:28,063 INFO Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query19.sql: Time Taken(24.1804189682)
+2018-02-26 23:30:54,796 INFO Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query2.sql: Time Taken(26.7325129509)
+2018-02-26 23:31:25,048 INFO Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query20.sql: Time Taken(30.2513267994)
+2018-02-26 23:31:25,083 ERROR Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query21.sql: Error in running.
+2018-02-26 23:31:40,554 INFO Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query22.sql: Time Taken(15.4703929424)
+2018-02-26 23:32:56,735 INFO Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query3.sql: Time Taken(76.1806879044)
+2018-02-26 23:35:31,031 INFO Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query4.sql: Time Taken(154.296079874)
+2018-02-26 23:37:47,313 INFO Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query5.sql: Time Taken(136.281582832)
+2018-02-26 23:38:02,432 INFO Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query6.sql: Time Taken(15.1183388233)
+2018-02-26 23:39:37,697 INFO Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query7.sql: Time Taken(95.2646319866)
+2018-02-26 23:43:15,112 INFO Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query8.sql: Time Taken(217.414803982)
+2018-02-26 23:43:15,631 ERROR Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query9.sql: Error in running.
+2018-02-26 23:43:15,631 ERROR ExecQueryFInstances rpc query_id=ea4853f027635d0d:5abadac200000000 failed: Failed to get minimum memory reservation of 250.00 MB on daemon ip-10-0-0-76.ec2.internal:22000 for query ea4853f027635d0d:5abadac200000000 because it would exceed an applicable memory limit. Memory is likely oversubscribed. Reducing query concurrency or configuring admission control may help avoid this error. Memory usage:
+Process: Limit=1.22 GB Total=1.10 GB Peak=1.22 GB
+  Buffer Pool: Free Buffers: Total=998.00 MB
+'---------------------------------------------------------------------------------------------------------------------------------------'
+2018-02-27 05:09:23,380 INFO Using Database: tpch_kudu
+2018-02-27 05:10:08,052 INFO Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query1.sql: Time Taken(44.6713490486)
+2018-02-27 05:10:44,018 INFO Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query10.sql: Time Taken(35.9652049541)
+2018-02-27 05:11:11,301 INFO Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query11.sql: Time Taken(27.2824008465)
+2018-02-27 05:12:13,480 INFO Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query12.sql: Time Taken(62.1786558628)
+2018-02-27 05:12:53,122 INFO Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query13.sql: Time Taken(39.6425971985)
+2018-02-27 05:13:26,545 INFO Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query14.sql: Time Taken(33.4221730232)
+2018-02-27 05:13:57,538 INFO Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query15.sql: Time Taken(30.9931058884)
+2018-02-27 05:14:01,334 INFO Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query16.sql: Time Taken(3.79527807236)
+2018-02-27 05:14:17,962 INFO Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query17.sql: Time Taken(16.6275641918)
+2018-02-27 05:15:24,141 INFO Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query18.sql: Time Taken(66.1794660091)
+2018-02-27 05:16:04,283 INFO Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query19.sql: Time Taken(40.1415817738)
+2018-02-27 05:16:22,106 INFO Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query2.sql: Time Taken(17.8217990398)
+2018-02-27 05:16:41,251 INFO Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query20.sql: Time Taken(19.144849062)
+2018-02-27 05:16:41,285 ERROR Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query21.sql: Error in running.
+2018-02-27 05:17:11,373 INFO Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query22.sql: Time Taken(30.0879120827)
+2018-02-27 05:17:27,475 INFO Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query3.sql: Time Taken(16.1015892029)
+2018-02-27 05:19:28,706 INFO Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query4.sql: Time Taken(121.230717897)
+2018-02-27 05:20:00,846 INFO Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query5.sql: Time Taken(32.1398191452)
+2018-02-27 05:20:11,462 INFO Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query6.sql: Time Taken(10.6154108047)
+2018-02-27 05:20:34,088 INFO Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query7.sql: Time Taken(22.6257069111)
+2018-02-27 05:21:00,758 INFO Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query8.sql: Time Taken(26.6702320576)
+2018-02-27 05:21:32,406 INFO Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query9.sql: Time Taken(31.6474990845)
+
+
+
+2018-02-27 04:44:17,078 INFO Using Database: tpch_parquet
+2018-02-27 04:44:28,351 INFO Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query1.sql: Time Taken(11.2725639343)
+2018-02-27 04:44:50,690 INFO Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query10.sql: Time Taken(22.3388369083)
+2018-02-27 04:45:16,178 INFO Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query11.sql: Time Taken(25.487869978)
+2018-02-27 04:45:23,798 INFO Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query12.sql: Time Taken(7.62014698982)
+2018-02-27 04:45:41,397 INFO Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query13.sql: Time Taken(17.5984098911)
+2018-02-27 04:45:51,871 INFO Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query14.sql: Time Taken(10.4735980034)
+2018-02-27 04:46:19,223 INFO Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query15.sql: Time Taken(27.3518679142)
+2018-02-27 04:46:22,721 INFO Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query16.sql: Time Taken(3.4977619648)
+2018-02-27 04:46:30,930 INFO Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query17.sql: Time Taken(8.20815300941)
+2018-02-27 04:47:02,561 INFO Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query18.sql: Time Taken(31.6312201023)
+2018-02-27 04:47:12,583 INFO Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query19.sql: Time Taken(10.0212900639)
+2018-02-27 04:47:27,130 INFO Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query2.sql: Time Taken(14.5464298725)
+2018-02-27 04:47:35,671 INFO Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query20.sql: Time Taken(8.54093503952)
+2018-02-27 04:47:35,708 ERROR Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query21.sql: Error in running.
+2018-02-27 04:48:02,045 INFO Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query22.sql: Time Taken(26.3364369869)
+2018-02-27 04:48:13,654 INFO Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query3.sql: Time Taken(11.6091349125)
+2018-02-27 04:48:20,246 INFO Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query4.sql: Time Taken(6.59205508232)
+2018-02-27 04:48:32,863 INFO Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query5.sql: Time Taken(12.616050005)
+2018-02-27 04:48:36,231 INFO Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query6.sql: Time Taken(3.36768007278)
+2018-02-27 04:49:09,366 INFO Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query7.sql: Time Taken(33.1345610619)
+2018-02-27 04:49:23,492 INFO Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query8.sql: Time Taken(14.1265258789)
+2018-02-27 04:49:51,142 INFO Query in /home/ec2-user/hive-benchmark/sample-queries-tpch/tpch_query9.sql: Time Taken(27.6491348743)
+
